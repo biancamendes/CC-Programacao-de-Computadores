@@ -1,4 +1,4 @@
-n1 = int(input()) #2
-n2 = int(input()) #1
+n1 = int(input())
+n2 = int(input())
 
 print ('soma =', n1+n2)
