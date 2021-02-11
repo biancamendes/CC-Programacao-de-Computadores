@@ -1,0 +1,11 @@
+nome          = input()
+idade         = int(input())
+altura        = float(input())
+peso          = float(input())
+nacionalidade = input()
+
+print (nome)
+print (idade, 'anos')
+print ('%.2f de altura'%(altura))
+print ('%.2f quilos'%(peso))
+print (nacionalidade)
